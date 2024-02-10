@@ -1,6 +1,7 @@
 Chatbot for learning Hebrew
 
 ITC Hackathon Feb24
+
 Made with React, Node, Python, OpenAI, MongoDB
 
 for run: 'npm i' then: 'npm run dev'
