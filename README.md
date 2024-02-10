@@ -1,6 +1,7 @@
 Chatbot for learning Hebrew
 
-Made with React, Node, Python, OpenAI
+ITC Hackathon Feb24
+Made with React, Node, Python, OpenAI, MongoDB
 
 for run: 'npm i' then: 'npm run dev'
 <img width="933" alt="303311297-28a144ed-5a01-4805-aada-b0ef4d3b0237" src="https://github.com/yobns/ChitChat/assets/132787980/b4326a64-9152-4806-b983-df01c87bae12">
